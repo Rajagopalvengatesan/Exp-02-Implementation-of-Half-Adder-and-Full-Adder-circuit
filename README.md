@@ -54,7 +54,7 @@ RTL realization
 ### Truth Table 
 
 ### Half Adder
-![image](https://github.com/Rajagopalvengatesan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870784/06513673-2737-4432-b81e-c9ca113c153d)
+![image](https://github.com/Rajagopalvengatesan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870784/b9e4557f-faf6-4ba6-bffc-afa696f6998b)
 
 ### Full Adder
 ![image](https://github.com/Rajagopalvengatesan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870784/ea359dae-6b33-44bc-a0f0-65795f4cf7bb)
@@ -64,7 +64,7 @@ RTL realization
 ![image](https://github.com/Rajagopalvengatesan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870784/2139841d-c849-4d8b-9fff-eef1c2a0ee99)
 
 ### Full Adder 
-![image](https://github.com/Rajagopalvengatesan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870784/0a643aaf-ab33-43a3-a0f5-038f2fe7fe63)
+![image](https://github.com/Rajagopalvengatesan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870784/3f8f58a9-d273-482a-bf6a-6b8c235053be)
 
 ### Timing Diagram
 ### Half Adder
