@@ -73,14 +73,4 @@ RTL realization
 ### Full Adder
 ![image](https://github.com/Rajagopalvengatesan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870784/6279b334-61ea-4241-bcda-a2c68464ba28)
 
-
-
-
-### Output:
-### RTL
-### TIMING DIAGRAM
-
-
-### TRUTH TABLE 
-
 ### Result:
